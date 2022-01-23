@@ -1,0 +1,22 @@
+{
+  "name": "calculator_js",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "main.js",
+  "scripts": {
+    "format": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugene0928/calculator_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugene0928/calculator_js/issues"
+  },
+  "homepage": "https://github.com/eugene0928/calculator_js#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
